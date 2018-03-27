@@ -26,7 +26,8 @@ namespace ProjectEuler
                 {5, Problem5()},
                 {6, Problem6()},
                 {7, Problem7()},
-                {8, Problem8()}
+                {8, Problem8()},
+                {9, Problem9()}
             };
             string result = problemDictionary.ElementAt(problemNumberDropDownList.SelectedIndex).Value;
 
@@ -315,6 +316,39 @@ namespace ProjectEuler
                 "that have the greatest product. What is the value of this product?" +
                 "<br /><br />Answer:<br />" +
                 maxProduct.ToString();
+        }
+        public string Problem9()
+        {
+            //Problem 9:
+            //A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
+            //    a2 + b2 = c2
+            //For example, 32 + 42 = 9 + 16 = 25 = 52.
+            //There exists exactly one Pythagorean triplet for which a + b + c = 1000.
+            //Find the product abc.
+            int firstNumber = 0;
+            int secondNumber = 0;
+            int thirdNumber = 0;
+            bool result = false;
+
+            for (int a = 1; a < 1000; a++)
+            {
+                for (int b = a; b < 1000-a; b++)
+                {
+                    int c = 1000 - a - b;
+                    if (c * c == a * a + b * b)
+                    {
+                        result = true;
+                        firstNumber = a;
+                        secondNumber = b;
+                        thirdNumber = c;
+                        break;
+                    }
+                }
+                if (result == true) break;
+            }
+            return String.Format("Problem 9:<br />A Pythagorean triplet is a set of three natural numbers, a < b < c, for which, a^2 + b^2 = c^2.<br />" +
+                "For example, 32 + 42 = 9 + 16 = 25 = 52.<br />There exists exactly one Pythagorean triplet for which a + b + c = 1000.  Find the product abc." +
+                "<br /><br />a = {0}<br />b = {1}<br />c = {2}<br />abc = {3}", firstNumber.ToString(), secondNumber.ToString(), thirdNumber.ToString(), (firstNumber*secondNumber*thirdNumber).ToString());
         }
         public string CheckPalindrome(string number)
         {
