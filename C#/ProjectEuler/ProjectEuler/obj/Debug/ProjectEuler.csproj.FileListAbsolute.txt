@@ -1,28 +1,14 @@
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\bin\ProjectEuler.dll.config
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\bin\ProjectEuler.dll
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\bin\ProjectEuler.pdb
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.dll
-C:\Users\Student\Desktop\visualStudio\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\ProjectEuler.dll.config
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\ProjectEuler.dll
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\ProjectEuler.pdb
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.dll
-C:\Users\Student\Desktop\GitHub Folder\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\ProjectEuler.dll.config
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\ProjectEuler.dll
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\ProjectEuler.pdb
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\jared\Desktop\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
 C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
 C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CopyComplete
-C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.dll
+C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
 C:\Users\jared\OneDrive\Documents\GitHub\Other-Projects\C#\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
